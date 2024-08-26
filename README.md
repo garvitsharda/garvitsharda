@@ -17,7 +17,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHF3YXI2enJjdzRsYXF2bDV1O
 
 - 🤝 I’m looking for help with **web development**
 
-- 📫 How to reach me **ommittal.careers@gmail.com**
+- 📫 How to reach me **garvitsharda07@gmail.com**
 
 - ⚡ Fun fact **I am crazy about lo-fi music**
 
